@@ -7,37 +7,34 @@
         <mxCell id="title" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontSize=15;fontSize=23;fontStyle=1;" value="DeskPi T1 Plus · 8 HE · Frontansicht" vertex="1">
           <mxGeometry height="40" width="760" x="40" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="subtitle" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontSize=15;fontSize=14;fontColor=#666666;" value="Smart-Home-Rack · vorhandener DIGITUS 8-Port-Switch · 2 Hue Bridges · Home Assistant Green · Raspberry Pi 4 + 5" vertex="1">
-          <mxGeometry height="30" width="1040" x="40" y="60" as="geometry" />
-        </mxCell>
         <mxCell id="u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 8" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="gear0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="1-HE-Blindplatte" vertex="1">
+        <mxCell id="gear0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="Blindplatte" vertex="1">
           <mxGeometry height="58" width="423" x="117" y="120" as="geometry" />
         </mxCell>
         <mxCell id="u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 7" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="gear1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="C · Home Assistant Green&#xa;auf 150-mm-Boden" vertex="1">
+        <mxCell id="gear1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="C · Home Assistant Green&#xa;150-mm-Fachboden" vertex="1">
           <mxGeometry height="58" width="423" x="117" y="315" as="geometry" />
         </mxCell>
         <mxCell id="u2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="HE 6" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="gear2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 7 frei · Luft über den Pis" vertex="1">
+        <mxCell id="gear2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="423" x="117" y="185" as="geometry" />
         </mxCell>
         <mxCell id="u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 5" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="gear3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="D · Raspberry Pi 4 + Pi 5 auf DeskPi DP-0033 (1 HE)" vertex="1">
+        <mxCell id="gear3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="D · Raspberry Pi 4 + Pi 5&#xa;DP-0033" vertex="1">
           <mxGeometry height="58" width="423" x="117" y="250" as="geometry" />
         </mxCell>
         <mxCell id="u4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="HE 4" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="gear4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="B · Hue Bridge + Bosch Controller&#xa;auf 150-mm-Fachboden · 1 HE (Stellprobe)" vertex="1">
+        <mxCell id="gear4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="B · Hue Bridge + Bosch&#xa;150-mm-Fachboden" vertex="1">
           <mxGeometry height="58" width="423" x="117" y="380" as="geometry" />
         </mxCell>
         <mxCell id="u5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 3" vertex="1">
@@ -46,20 +43,14 @@
         <mxCell id="u6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="HE 2" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="gear6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="A · Hue Bridge + Sonos Boost&#xa;auf 150-mm-Fachboden · 1 HE (Stellprobe)" vertex="1">
+        <mxCell id="gear6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="A · Hue Bridge + Sonos Boost&#xa;150-mm-Fachboden" vertex="1">
           <mxGeometry height="58" width="423" x="117" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="drawer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="2-HE-Schublade · abschließbar" vertex="1">
+        <mxCell id="drawer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="Schublade" vertex="1">
           <mxGeometry height="123" width="423" x="117" y="510" as="geometry" />
         </mxCell>
         <mxCell id="u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="HE 1" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="575" as="geometry" />
-        </mxCell>
-        <mxCell id="note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Netzteile, Kabelwege und Funkabstand bei der Montage prüfen." vertex="1">
-          <mxGeometry height="130" width="500" x="600" y="383" as="geometry" />
-        </mxCell>
-        <mxCell id="note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Portbedarf: 2 × Hue + Bosch + Sonos + Green + Pi 4 + Pi 5 + Uplink = 8 Ports. Der vorhandene 8-Port-Switch ist damit voll. Strom: mit einzelnen Netzteilen 8 Schuko-Anschlüsse einschließlich Switch; Netzteilbreite an den zwei 4-fach-Leisten prüfen." vertex="1">
-          <mxGeometry height="105" width="500" x="600" y="533" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -72,10 +63,7 @@
         <mxCell id="sh-title" value="Draufsicht · Stellflächen und Tiefe (schematisch)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="20" width="930" height="45" />
         </mxCell>
-        <mxCell id="sh-sub" value="Rack: 260 mm tief, ca. 212 mm Innenbreite · A/B per Stellprobe auf 150 mm; C mit Green und Kabelraum noch prüfen" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="65" width="1000" height="32" />
-        </mxCell>
-        <mxCell id="a-label" value="B · HE 4 · Hue + Bosch auf ca. 150 mm (1 HE)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="a-label" value="B · HE 4 · Hue + Bosch · 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="105" width="450" height="35" />
         </mxCell>
         <mxCell id="a-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -87,10 +75,7 @@
         <mxCell id="a-hue2" value="Bosch&#xa;100 × 100" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="173" y="153" width="100" height="100" />
         </mxCell>
-        <mxCell id="a-rear" value="ca. 110 mm hinter Boden A" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="310" width="390" height="35" />
-        </mxCell>
-        <mxCell id="b-label" value="A · HE 3 · Hue + Sonos auf ca. 150 mm (1 HE)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="b-label" value="A · HE 3 · Hue + Sonos · 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="105" width="480" height="35" />
         </mxCell>
         <mxCell id="b-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -102,10 +87,7 @@
         <mxCell id="b-tahoma" value="Sonos Boost&#xa;115 × 115" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="640" y="153" width="115" height="115" />
         </mxCell>
-        <mxCell id="b-rear" value="ca. 110 mm hinter Boden B" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="520" y="310" width="430" height="35" />
-        </mxCell>
-        <mxCell id="c-label" value="C · HE 5 · Green auf 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="c-label" value="C · HE 5 · Home Assistant Green · 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="405" width="450" height="35" />
         </mxCell>
         <mxCell id="c-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -114,16 +96,7 @@
         <mxCell id="c-green" value="Home Assistant Green&#xa;112 × 112" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="115" y="464" width="112" height="112" />
         </mxCell>
-        <mxCell id="sh-note1" value="A/B: Diese beiden Kombinationen hast du auf vorhandenen 150-mm-Böden nebeneinander ausprobiert. Bei Hue + Sonos ist seitlich wenig Abstand; Stecker und Kabel im Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="520" y="405" width="560" height="95" />
-        </mxCell>
-        <mxCell id="sh-note2" value="C: Home Assistant Green 112 × 112 × 32 mm steht allein auf dem 150-mm-Boden. Netzteil und Ethernet-Kabel hinter dem Gerät führen. TaHoma ist vorerst außerhalb des Racks geplant, eventuell im EG." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="520" y="515" width="560" height="95" />
-        </mxCell>
-        <mxCell id="sh-note3" value="Die Paarungen A und B sind durch deine Probe bestätigt. Im Rack noch Pi-Kühler auf HE 6, Green auf HE 5 und den Abstand zur rückseitigen Leiste auf HE 5 prüfen. Die Leisten können bei Bedarf versetzt werden." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="635" width="1040" height="75" />
-        </mxCell>
-        <mxCell id="d-label" value="D · HE 6 · Pi 4 + Pi 5 auf DP-0033 (1 HE)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="d-label" value="D · HE 6 · Pi 4 + Pi 5 · DP-0033" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="735" width="450" height="35" />
         </mxCell>
         <mxCell id="d-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -134,9 +107,6 @@
         </mxCell>
         <mxCell id="d-pi2" value="Pi 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="185" y="796" width="85" height="56" />
-        </mxCell>
-        <mxCell id="d-note" value="DP-0033: Stellfläche 216 × 100 mm für Pi 4 und Pi 5. HE 7 darüber bleibt für Luft frei; kurzer Kabelweg zum Monitor oben. Optional 2,5″-SSD an der Unterseite, per USB 3.0 angeschlossen. Kühler, SSD, Steckerhöhe und Abstand zur rückseitigen Leiste auf HE 6 vor Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="520" y="765" width="560" height="115" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -149,13 +119,10 @@
         <mxCell id="rear-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;" value="DeskPi T1 Plus · Rückansicht mit Switch und Stromverteilung" vertex="1">
           <mxGeometry height="45" width="1000" x="40" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="rear-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" value="Konzept: Switch-Ports hinten auf HE 8; 2 × DIGITUS DN-95418 (10″, 1 HE, 4 × Schuko) vorläufig auf HE 6/5" vertex="1">
-          <mxGeometry height="30" width="1000" x="40" y="68" as="geometry" />
-        </mxCell>
         <mxCell id="rear-u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 8" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="Vorhandener DIGITUS DN-80114 · 8 Ports · RJ45 nach hinten · 150 mm tief" vertex="1">
+        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-80114 · 8 Ports" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="120" as="geometry" />
         </mxCell>
         <mxCell id="rear-u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 7" vertex="1">
@@ -200,16 +167,7 @@
         <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="Strom: 2 × Hue + Bosch + Green + Sonos + Pi 4 + Pi 5 + Switch = 8 Stecker für 8 Dosen, sofern jedes Gerät ein Einzelnetzteil hat. Pi 4: 5 V/3 A; Pi 5: 5 V/5 A empfohlen. Netzteilbreite und Steckerfreiheit prüfen." vertex="1">
-          <mxGeometry height="125" width="440" x="675" y="125" as="geometry" />
-        </mxCell>
-        <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Switch hinten HE 8, mitgelieferte Blindplatte vorn: IEC-Stromanschluss zeigt nach innen. Aus 260 mm Rack-Außentiefe minus 150 mm Switch-Tiefe folgt höchstens 110 mm für Schienen und Stecker; nutzbarer Kabelraum unbekannt. Gegebenenfalls gewinkeltes IEC-Kabel." vertex="1">
-          <mxGeometry height="135" width="440" x="675" y="275" as="geometry" />
-        </mxCell>
-        <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Leisten HE 6/5 sind vorläufig: Vorn sitzen auf HE 6 der Pi-Halter und auf HE 5 der kurze Green-Boden; die Schublade belegt HE 1–2. Abstand, Stecker und Netzteile prüfen; Leisten bei Bedarf versetzen. Beide separat speisen, nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">
-          <mxGeometry height="125" width="440" x="675" y="435" as="geometry" />
-        </mxCell>
-        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet zum Switch HE 8 (vorläufig): 1 × 1 m für Green HE 5; 2 × 1 m für Pi 4/5 HE 6; 2 × 1 m für Hue/Bosch HE 4; 2 × 1,5 m für Hue/Sonos HE 3. Dazu 1 Uplink mit separat zu messender Länge: 8 Ports belegt. Flexible Cat6-Kabel seitlich führen, beide Enden beschriften; Längen am Rack prüfen." vertex="1">
+        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet: Green 1 × 1 m · Pis 2 × 1 m · Hue/Bosch 2 × 1 m · Hue/Sonos 2 × 1,5 m · Uplink separat messen" vertex="1">
           <mxGeometry height="145" width="440" x="675" y="585" as="geometry" />
         </mxCell>
       </root>
@@ -226,83 +184,74 @@
         <mxCell id="basement-u-12" value="HE 12" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="90" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-12" value="TP-Link TL-SG108PE · 8 Ports · 4 × PoE+ · vorhandener 10″-Einbaurahmen" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-12" value="TP-Link TL-SG108PE · vorhandener Einbaurahmen" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="90" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-11" value="HE 11" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="138" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-11" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-11" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="138" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-10" value="HE 10" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="186" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-10" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-10" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="186" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-9" value="HE 9" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="234" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-9" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-9" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="234" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-8" value="HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="282" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-8" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="282" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-7" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="330" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-7" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-7" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="330" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-6" value="HE 6" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="378" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-6" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-6" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="378" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-5" value="HE 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="426" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-5" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-5" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="426" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-4" value="HE 4" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="474" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-4" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-4" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="474" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-3" value="HE 3" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="522" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-3" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-3" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="522" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-2" value="HE 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="570" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-2" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="570" width="480" height="42" />
         </mxCell>
         <mxCell id="basement-u-1" value="HE 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="618" width="75" height="42" />
         </mxCell>
-        <mxCell id="basement-gear-1" value="frei / noch nicht geplant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="basement-gear-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="618" width="480" height="42" />
-        </mxCell>
-        <mxCell id="basement-note-1" value="Der TL-SG108PE ist ein Desktop-Switch (ca. 158 × 101 × 25 mm). Einbaurahmen vorhanden; Passform, Befestigung und Netzteilplatz vor Einbau prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="640" y="130" width="450" height="125" />
-        </mxCell>
-        <mxCell id="basement-note-2" value="PoE-Leistungsbudget hängt von der Hardwareversion ab. Die angeschlossenen PoE-Geräte sind noch nicht geplant." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="640" y="285" width="450" height="95" />
-        </mxCell>
-        <mxCell id="basement-note-3" value="Darstellung: nur bekannte Belegung. Weitere Geräte und Kabelführung im Keller-Schrank noch offen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="640" y="410" width="450" height="95" />
         </mxCell>
       </root>
     </mxGraphModel>

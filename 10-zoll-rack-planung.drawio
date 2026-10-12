@@ -55,10 +55,7 @@
         <mxCell id="u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="HE 1" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="Front: HE 8 Blindplatte (Switch hinten); HE 7 frei für Luft; HE 6 zwei Pis auf DP-0033; HE 5 Green auf Boden C (1 HE); HE 4 Hue/Bosch auf Boden B (1 HE); HE 3 Hue/Sonos auf Boden A (1 HE); HE 2–1 Schublade. Hinten: Switch HE 8 und zwei 4-fach-Leisten HE 6/5." vertex="1">
-          <mxGeometry height="100" width="500" x="600" y="128" as="geometry" />
-        </mxCell>
-        <mxCell id="note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma ist vorerst außerhalb des Racks geplant, eventuell im EG. Netzteile, Kabelwege und Funkabstand bei der Montage prüfen." vertex="1">
+        <mxCell id="note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Netzteile, Kabelwege und Funkabstand bei der Montage prüfen." vertex="1">
           <mxGeometry height="130" width="500" x="600" y="383" as="geometry" />
         </mxCell>
         <mxCell id="note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Portbedarf: 2 × Hue + Bosch + Sonos + Green + Pi 4 + Pi 5 + Uplink = 8 Ports. Der vorhandene 8-Port-Switch ist damit voll. Strom: mit einzelnen Netzteilen 8 Schuko-Anschlüsse einschließlich Switch; Netzteilbreite an den zwei 4-fach-Leisten prüfen." vertex="1">

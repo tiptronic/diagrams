@@ -19,7 +19,7 @@
         <mxCell id="u1" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="185" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear1" value="C · TaHoma + Home Assistant Green&#10;150-mm-Boden? Stellprobe nötig" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear1" value="C · TaHoma + Home Assistant Green&#10;auf 150-mm-Boden · TaHoma mit Überstand" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="185" width="423" height="58" />
         </mxCell>
         <mxCell id="u2" value="HE 6" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
@@ -49,10 +49,10 @@
         <mxCell id="u7" value="HE 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="575" width="75" height="58" />
         </mxCell>
-        <mxCell id="note1" value="Front: HE 8 Switch; HE 7 TaHoma/Green auf Boden C (Vorschlag); HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten bleiben zwei 4-fach-Leisten." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="note1" value="Front: HE 8 Switch; HE 7 TaHoma/Green auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten bleiben zwei 4-fach-Leisten." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="128" width="500" height="100" />
         </mxCell>
-        <mxCell id="note2" value="A/B: 150-mm-Böden nach deiner Stellprobe. C: Green + TaHoma nebeneinander nur als Versuch; TaHoma ragt rechnerisch 12 mm über den Boden. Abstützung, 1-HE-Bauhöhe und Abstand zur PDU 2 real prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. Bei C steht die TaHoma etwas über. Offen bleiben Bauhöhe in HE 7, Stecker/Kabel und Abstand zur rückseitigen PDU 2." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="248" width="500" height="115" />
         </mxCell>
         <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma nutzt WLAN; mit Ethernet-Adapter steigt der Portbedarf. Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -105,7 +105,7 @@
         <mxCell id="b-rear" value="ca. 110 mm hinter Boden B" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="310" width="430" height="35" />
         </mxCell>
-        <mxCell id="c-label" value="C · HE 7 · TaHoma + Green auf 150 mm?" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="c-label" value="C · HE 7 · TaHoma + Green auf 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="405" width="450" height="35" />
         </mxCell>
         <mxCell id="c-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -120,10 +120,10 @@
         <mxCell id="sh-note1" value="A/B: Diese beiden Kombinationen hast du auf vorhandenen 150-mm-Böden nebeneinander ausprobiert. Bei Hue + Sonos ist seitlich wenig Abstand; Stecker und Kabel im Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="405" width="560" height="95" />
         </mxCell>
-        <mxCell id="sh-note2" value="C ist nur ein Vorschlag: Green 112 × 112 × 32 mm neben TaHoma 67 × 162 × 35 mm. Bei 150 mm Bodentiefe ragt die TaHoma hinten 12 mm über. Auflagepunkte, Netzteile und Kabel prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sh-note2" value="C: Green 112 × 112 × 32 mm und TaHoma 67 × 162 × 35 mm passen laut deiner Stellprobe nebeneinander. Die TaHoma steht etwas über den 150-mm-Boden hinaus. Netzteile und Kabel noch prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="515" width="560" height="95" />
         </mxCell>
-        <mxCell id="sh-note3" value="Die Zeichnung zeigt Stellflächen, keine bestätigte Einbaupassform. Für HE 7 die Höhe von Boden + Geräten sowie den Abstand zur rückseitigen PDU 2 prüfen. A und B sind durch deine Stellprobe bestätigt." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="sh-note3" value="Die Stellflächen A, B und C sind durch deine Probe bestätigt. Für den Einbau im Rack noch die Höhe von Boden + Geräten in HE 7 sowie den Abstand zur rückseitigen PDU 2 prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="635" width="1040" height="75" />
         </mxCell>
       </root>

@@ -20,7 +20,7 @@
         <mxCell id="u1" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="185" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear1" value="frei vorne · rückseitig Stromverteilung" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear1" value="Vorne ohne Einbau · hinten Steckdosenleiste 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="185" width="423" height="58" />
         </mxCell>
         <mxCell id="u2" value="HE 6" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
@@ -32,7 +32,7 @@
         <mxCell id="u3" value="HE 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="315" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear3" value="A · Fachboden ca. 230 mm · Freiraum" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear3" value="A · Fachboden ca. 230 mm · trägt Hue + Sonos" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="315" width="423" height="58" />
         </mxCell>
         <mxCell id="u4" value="HE 4" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
         <mxCell id="u5" value="HE 3" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="445" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear5" value="B · Fachboden ca. 200 mm · Freiraum" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear5" value="B · Fachboden ca. 200 mm · trägt Bosch + TaHoma" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="445" width="423" height="58" />
         </mxCell>
         <mxCell id="u6" value="HE 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
@@ -59,7 +59,7 @@
         <mxCell id="gear7" value="C · Schublade · volle Tiefe" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="575" width="423" height="58" />
         </mxCell>
-        <mxCell id="note1" value="8 HE belegt: 1 HE Switch, 1 HE vorn frei, 2 × 2 HE für Geräte/Fachböden und 2 HE Schublade. Hinten sind zwei 4-fach-Leisten vorgesehen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="note1" value="Front: HE 8 Switch; HE 7 ohne Einbau; HE 6–5 Hue/Sonos auf Boden A; HE 4–3 Bosch/TaHoma auf Boden B; HE 2–1 Schublade. Hinten: zwei 4-fach-Leisten, eine davon auf HE 7." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="128" width="500" height="100" />
         </mxCell>
         <mxCell id="note2" value="Fachböden als Planungsmaße: A ca. 230 mm, B ca. 200 mm. Die genaue Einbautiefe und Kabelanschlüsse am aufgebauten Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">

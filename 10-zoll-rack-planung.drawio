@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mxfile host="app.diagrams.net" version="24.7.17">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="DeskPi 8 HE – Front" id="rack-v1">
     <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,7 +96,7 @@
         <mxCell id="a-hue2" value="Hue 88 × 88" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="173" y="153" width="88" height="88" />
         </mxCell>
-        <mxCell id="a-sonos" value="Sonos Boost&#10;115 × 115" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="a-sonos" value="Sonos Boost&#xa;115 × 115" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="113" y="252" width="115" height="115" />
         </mxCell>
         <mxCell id="a-rear" value="Rack-Rückkante 260 mm → ca. 30 mm hinter Boden A" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -109,10 +108,10 @@
         <mxCell id="b-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="545" y="145" width="212" height="200" />
         </mxCell>
-        <mxCell id="b-bosch" value="Bosch Controller&#10;100 × 100 × 29" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="b-bosch" value="Bosch Controller&#xa;100 × 100 × 29" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="152" width="100" height="100" />
         </mxCell>
-        <mxCell id="b-tahoma" value="TaHoma&#10;67 × 162" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="b-tahoma" value="TaHoma&#xa;67 × 162" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="680" y="152" width="67" height="162" />
         </mxCell>
         <mxCell id="b-rear" value="Rack-Rückkante 260 mm → ca. 60 mm hinter Boden B" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -131,75 +130,75 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DeskPi 8 HE – Rückseite" id="rear-v1">
-    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1459" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rear-title" value="DeskPi T1 Plus · Rückansicht mit Stromverteilung" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="20" width="1000" height="45" />
+        <mxCell id="rear-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;" value="DeskPi T1 Plus · Rückansicht mit Stromverteilung" vertex="1">
+          <mxGeometry height="45" width="1000" x="40" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="rear-sub" value="Konzept: zwei 10″-Leisten mit je 4 Schuko-Dosen; Steckplätze zeigen nach hinten außen" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="68" width="1000" height="30" />
+        <mxCell id="rear-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" value="Konzept: zwei 10″-Leisten mit je 4 Schuko-Dosen; Steckplätze zeigen nach hinten außen" vertex="1">
+          <mxGeometry height="30" width="1000" x="40" y="68" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u0" value="HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="120" width="75" height="58" />
+        <mxCell id="rear-u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 8" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item0" value="PDU 1 · 4 × Schuko · Switch + 2 × Hue + Sonos" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="120" width="510" height="58" />
+        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 1 · 4 × Schuko · Switch + 2 × Hue + Sonos" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u1" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="185" width="75" height="58" />
+        <mxCell id="rear-u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 7" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item1" value="PDU 2 · 4 × Schuko · Bosch + TaHoma + 2 Reserve" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="185" width="510" height="58" />
+        <mxCell id="rear-item1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 2 · 4 × Schuko · Bosch + TaHoma + 2 Reserve" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u2" value="HE 6" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="250" width="75" height="58" />
+        <mxCell id="rear-u2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="HE 6" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item2" value="Kabel zu 2 Hue Bridges und Sonos Boost" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="250" width="510" height="58" />
+        <mxCell id="rear-item2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u3" value="HE 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="315" width="75" height="58" />
+        <mxCell id="rear-u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="HE 5" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item3" value="Fachboden A · ca. 230 mm tief" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="315" width="510" height="58" />
+        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u4" value="HE 4" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="380" width="75" height="58" />
+        <mxCell id="rear-u4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 4" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item4" value="Kabel zu Bosch und TaHoma Switch" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="380" width="510" height="58" />
+        <mxCell id="rear-item4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u5" value="HE 3" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="445" width="75" height="58" />
+        <mxCell id="rear-u5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 3" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item5" value="Fachboden B · ca. 200 mm tief" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="445" width="510" height="58" />
+        <mxCell id="rear-item5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u6" value="HE 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="510" width="75" height="58" />
+        <mxCell id="rear-u6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="HE 2" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item6" value="Schublade · Rückraum freihalten" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="510" width="510" height="58" />
+        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="Schublade · Rückraum freihalten" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u7" value="HE 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="42" y="575" width="75" height="58" />
+        <mxCell id="rear-u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="HE 1" vertex="1">
+          <mxGeometry height="58" width="75" x="42" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item7" value="Schublade · Rückraum freihalten" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="575" width="510" height="58" />
+        <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="Schublade · Rückraum freihalten" vertex="1">
+          <mxGeometry height="58" width="510" x="117" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note1" value="6 Stromanschlüsse: Switch, 2 Hue, Sonos, Bosch, TaHoma. Die zwei Hue-Steckernetzteile können benachbarte Schuko-Dosen verdecken; Steckprobe vor Kauf." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="675" y="125" width="440" height="125" />
+        <mxCell id="rear-note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="6 Stromanschlüsse: Switch, 2 Hue, Sonos, Bosch, TaHoma. Die zwei Hue-Steckernetzteile können benachbarte Schuko-Dosen verdecken; Steckprobe vor Kauf." vertex="1">
+          <mxGeometry height="125" width="440" x="675" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note2" value="PDU-Montage an den Rückschienen als Konzept. Bei HE 8 treffen Switch (150 mm tief), Stromstecker und PDU aufeinander: Einbau und Kabelbogen am realen Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="675" y="275" width="440" height="135" />
+        <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PDU-Montage an den Rückschienen als Konzept. Bei HE 8 treffen Switch (150 mm tief), Stromstecker und PDU aufeinander: Einbau und Kabelbogen am realen Rack prüfen." vertex="1">
+          <mxGeometry height="135" width="440" x="675" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note3" value="Beide Leisten mit eigenen Zuleitungen zur Wandsteckdose/Stromversorgung führen; nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="675" y="435" width="440" height="125" />
+        <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Beide Leisten mit eigenen Zuleitungen zur Wandsteckdose/Stromversorgung führen; nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">
+          <mxGeometry height="125" width="440" x="675" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note4" value="Rückseite offen lassen: Platz hinter dem Rack für Netzteile, Stecker und Zugentlastung vorsehen. HE 7 ist nur vorn frei." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="675" y="585" width="440" height="95" />
+        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Rückseite offen lassen: Platz hinter dem Rack für Netzteile, Stecker und Zugentlastung vorsehen. HE 7 ist nur vorn frei." vertex="1">
+          <mxGeometry height="95" width="440" x="675" y="585" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

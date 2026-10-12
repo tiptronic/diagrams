@@ -7,13 +7,13 @@
         <mxCell id="title" value="DeskPi T1 Plus · 8 HE · Frontansicht" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontSize=15;fontSize=23;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="20" width="760" height="40" />
         </mxCell>
-        <mxCell id="subtitle" value="Smart-Home-Rack · DIGITUS 8-Port-Switch · 2 Hue Bridges · Home Assistant Green · 2U-Schublade" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontSize=15;fontSize=14;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="subtitle" value="Smart-Home-Rack · 16-Port-Switch erforderlich · 2 Hue Bridges · Home Assistant Green · 2 Raspberry Pis" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;fontSize=15;fontSize=14;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="60" width="1040" height="30" />
         </mxCell>
         <mxCell id="u0" value="HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="120" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear0" value="mitgelieferte 1-HE-Blindplatte&#10;Switch rückseitig auf HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear0" value="mitgelieferte 1-HE-Blindplatte&#10;16-Port-Switch rückseitig auf HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="120" width="423" height="58" />
         </mxCell>
         <mxCell id="u1" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -43,13 +43,16 @@
         <mxCell id="u6" value="HE 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="510" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear6" value="abschließbare 2U-Schublade" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="117" y="510" width="423" height="123" />
+        <mxCell id="gear6" value="D · 2 Raspberry Pis auf DeskPi DP-0033 (1 HE)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="117" y="510" width="423" height="58" />
         </mxCell>
         <mxCell id="u7" value="HE 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="575" width="75" height="58" />
         </mxCell>
-        <mxCell id="note1" value="Front: HE 8 Blindplatte (Switch hinten); HE 7 TaHoma/Green auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten: Switch HE 8 und zwei 4-fach-Leisten HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gear7" value="HE 1 frei · Luft und Zugang zu Pi-Kabeln" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="117" y="575" width="423" height="58" />
+        </mxCell>
+        <mxCell id="note1" value="Front: HE 8 Blindplatte (Switch hinten); HE 7 TaHoma/Green auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2 zwei Pis auf DP-0033; HE 1 Luft und Kabelzugang. Hinten: Switch HE 8 und zwei 4-fach-Leisten HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="128" width="500" height="100" />
         </mxCell>
         <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. TaHoma auf HE 8 wäre nur mit kurzem Halter denkbar: Ein 150-mm-Boden überlappt den 150-mm-Switch bei 260 mm Racktiefe. Außerdem braucht der IEC-Stecker innen Platz." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -58,14 +61,14 @@
         <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma ist über ihren Ethernet-Adapter verkabelt. Adapter, Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="383" width="500" height="130" />
         </mxCell>
-        <mxCell id="note4" value="Portbedarf: 2 × Hue + Bosch + Sonos + Green + TaHoma-Adapter + Uplink = 7 von 8 Switch-Ports. Ein Port bleibt frei." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="600" y="533" width="500" height="87" />
+        <mxCell id="note4" value="Portbedarf: 2 × Hue + Bosch + Sonos + Green + TaHoma-Adapter + 2 Pis + Uplink = 9 Ports. Daher 16-Port-Switch einplanen. Strom: 9 Anschlüsse bei einzelnen Pi-Netzteilen; die bisherigen 8 Dosen reichen nicht. Pi-Modelle und Netzteile noch festlegen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="600" y="533" width="500" height="105" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Fachböden – Draufsicht" id="shelves-v1">
-    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +129,21 @@
         <mxCell id="sh-note3" value="Die Stellflächen A, B und C sind durch deine Probe bestätigt. Für den Einbau im Rack noch die Höhe von Boden + Geräten in HE 7 sowie den Abstand zu den rückseitigen Leisten in HE 6/5 prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="635" width="1040" height="75" />
         </mxCell>
+        <mxCell id="d-label" value="D · HE 2 · 2 Pis auf DeskPi DP-0033 (1 HE)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="735" width="450" height="35" />
+        </mxCell>
+        <mxCell id="d-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="65" y="780" width="216" height="100" />
+        </mxCell>
+        <mxCell id="d-pi1" value="Pi 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="76" y="796" width="85" height="56" />
+        </mxCell>
+        <mxCell id="d-pi2" value="Pi 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="185" y="796" width="85" height="56" />
+        </mxCell>
+        <mxCell id="d-note" value="DP-0033: Stellfläche 216 × 100 mm, laut Hersteller Platz für 2 Raspberry Pis. Steckerrichtung, Kühlerhöhe und Kabelweg hängen von den noch unbekannten Pi-Modellen ab. HE 1 darunter bleibt für Luft und Zugang frei." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="520" y="765" width="560" height="115" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -143,7 +161,7 @@
         <mxCell id="rear-u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 8" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS 8-Port-Switch · RJ45 nach hinten · 150 mm tief" vertex="1">
+        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-80115-1 · 16 Ports · RJ45 nach hinten · 150 mm tief" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="120" as="geometry" />
         </mxCell>
         <mxCell id="rear-u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 7" vertex="1">
@@ -179,16 +197,16 @@
         <mxCell id="rear-u6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="HE 2" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="Schublade · Rückraum freihalten" vertex="1">
+        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="2 Raspberry Pis vorn · 2 × RJ45 und Strom nach oben führen" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="510" as="geometry" />
         </mxCell>
         <mxCell id="rear-u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="HE 1" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="Schublade · Rückraum freihalten" vertex="1">
+        <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 1 frei · Pi-Stromlösung und Kabelraum prüfen" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="7 Stromanschlüsse: Switch, 2 Hue, Sonos, Bosch, TaHoma, Green. Nur 1 der 8 Schuko-Dosen bleibt frei; breite Steckernetzteile können Nachbardosen verdecken. Steckprobe vor Kauf." vertex="1">
+        <mxCell id="rear-note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="Strom: bisher 7 Anschlüsse. Mit 2 einzelnen Pi-Netzteilen wären es 9; die 8 Schuko-Dosen reichen nicht. Passende Stromverteilung abhängig von Pi-Modell und Netzteilen ergänzen. Breite Steckernetzteile können Nachbardosen verdecken." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="125" as="geometry" />
         </mxCell>
         <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Switch hinten HE 8, mitgelieferte Blindplatte vorn: IEC-Stromanschluss zeigt nach innen. Aus 260 mm Rack-Außentiefe minus 150 mm Switch-Tiefe folgt höchstens 110 mm für Schienen und Stecker; nutzbarer Kabelraum unbekannt. Gegebenenfalls gewinkeltes IEC-Kabel." vertex="1">
@@ -197,7 +215,7 @@
         <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Leisten HE 6/5: Schuko-Dosen nach außen; Platz hinter den 150-mm-Böden und für Netzteile prüfen. Beide Leisten separat speisen, nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet intern (vorläufig): Green + TaHoma-Adapter HE 7: je 1 m; Hue 1 + Bosch HE 6: je 1 m; Hue 2 + Sonos HE 4: je 1 m. Also 6 interne Kabel; Uplink nach realem Weg messen. Cat 6 rechts führen." vertex="1">
+        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet intern (vorläufig): Green + TaHoma HE 7, Hue 1 + Bosch HE 6, Hue 2 + Sonos HE 4, zwei Pis HE 2. Insgesamt 8 interne Kabel + Uplink = 9 Ports. Für die Pis je ca. 1,5 m als Startwert; endgültige Länge am Rack messen." vertex="1">
           <mxGeometry height="110" width="440" x="675" y="585" as="geometry" />
         </mxCell>
       </root>

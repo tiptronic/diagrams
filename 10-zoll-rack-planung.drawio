@@ -19,31 +19,31 @@
         <mxCell id="u1" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="185" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear1" value="Vorne ohne Einbau · hinten Steckdosenleiste 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear1" value="TaHoma quer · 150-mm-Boden · Höhe prüfen; hinten PDU 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="185" width="423" height="58" />
         </mxCell>
         <mxCell id="u2" value="HE 6" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="250" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear2" value="A · 2 Hue Bridges + Sonos Boost" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear2" value="A · Hue Bridge + Bosch Controller" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="250" width="423" height="58" />
         </mxCell>
         <mxCell id="u3" value="HE 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="315" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear3" value="A · Fachboden ca. 230 mm · trägt Hue + Sonos" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear3" value="A · vorhandener Fachboden ca. 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="315" width="423" height="58" />
         </mxCell>
         <mxCell id="u4" value="HE 4" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="380" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear4" value="B · Bosch + TaHoma Switch" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear4" value="B · Hue Bridge + Sonos Boost" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="380" width="423" height="58" />
         </mxCell>
         <mxCell id="u5" value="HE 3" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="445" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear5" value="B · Fachboden ca. 200 mm · trägt Bosch + TaHoma" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear5" value="B · vorhandener Fachboden ca. 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="445" width="423" height="58" />
         </mxCell>
         <mxCell id="u6" value="HE 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
@@ -58,10 +58,10 @@
         <mxCell id="gear7" value="C · Schublade · volle Tiefe" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="575" width="423" height="58" />
         </mxCell>
-        <mxCell id="note1" value="Front: HE 8 Switch; HE 7 ohne Einbau; HE 6–5 Hue/Sonos auf Boden A; HE 4–3 Bosch/TaHoma auf Boden B; HE 2–1 Schublade. Hinten: zwei 4-fach-Leisten, eine davon auf HE 7." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="note1" value="Front: HE 8 Switch; HE 7 TaHoma auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten bleiben zwei 4-fach-Leisten." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="128" width="500" height="100" />
         </mxCell>
-        <mxCell id="note2" value="Fachböden als Planungsmaße: A ca. 230 mm, B ca. 200 mm. Die genaue Einbautiefe und Kabelanschlüsse am aufgebauten Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="note2" value="A und B: 150-mm-Böden nach deiner Stellprobe. C: TaHoma quer auf einem dritten 150-mm-Boden als Vorschlag. Ob Boden C samt Gerät in HE 7 passt und hinten Platz zur PDU bleibt, am Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="248" width="500" height="115" />
         </mxCell>
         <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma nutzt WLAN; mit Ethernet-Adapter steigt der Portbedarf. Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -81,50 +81,56 @@
         <mxCell id="sh-title" value="Draufsicht · Stellflächen und Tiefe (schematisch)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="20" width="930" height="45" />
         </mxCell>
-        <mxCell id="sh-sub" value="Rack: 260 mm tief, ca. 212 mm Innenbreite · Maße der Fachböden vor Bestellung prüfen" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sh-sub" value="Rack: 260 mm tief, ca. 212 mm Innenbreite · A/B per Stellprobe auf 150 mm; C und Kabelraum noch prüfen" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="65" width="1000" height="32" />
         </mxCell>
-        <mxCell id="a-label" value="A · HE 6–5 · geplanter Fachboden ca. 212 × 230 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="a-label" value="A · HE 6–5 · Hue + Bosch auf ca. 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="105" width="450" height="35" />
         </mxCell>
         <mxCell id="a-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="65" y="145" width="212" height="230" />
+          <mxGeometry as="geometry" x="65" y="145" width="212" height="150" />
         </mxCell>
         <mxCell id="a-hue1" value="Hue 88 × 88" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="73" y="153" width="88" height="88" />
         </mxCell>
-        <mxCell id="a-hue2" value="Hue 88 × 88" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="173" y="153" width="88" height="88" />
+        <mxCell id="a-hue2" value="Bosch&#10;100 × 100" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="173" y="153" width="100" height="100" />
         </mxCell>
-        <mxCell id="a-sonos" value="Sonos Boost&#xa;115 × 115" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="113" y="252" width="115" height="115" />
+        <mxCell id="a-rear" value="ca. 110 mm hinter Boden A" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="310" width="390" height="35" />
         </mxCell>
-        <mxCell id="a-rear" value="Rack-Rückkante 260 mm → ca. 30 mm hinter Boden A" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="388" width="390" height="35" />
-        </mxCell>
-        <mxCell id="b-label" value="B · HE 4–3 · geplanter Fachboden ca. 212 × 200 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="b-label" value="B · HE 4–3 · Hue + Sonos auf ca. 150 mm" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="105" width="480" height="35" />
         </mxCell>
         <mxCell id="b-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="545" y="145" width="212" height="200" />
+          <mxGeometry as="geometry" x="545" y="145" width="212" height="150" />
         </mxCell>
-        <mxCell id="b-bosch" value="Bosch Controller&#xa;100 × 100 × 29" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="550" y="152" width="100" height="100" />
+        <mxCell id="b-bosch" value="Hue 88 × 88" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="550" y="153" width="88" height="88" />
         </mxCell>
-        <mxCell id="b-tahoma" value="TaHoma&#xa;67 × 162" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="680" y="152" width="67" height="162" />
+        <mxCell id="b-tahoma" value="Sonos Boost&#10;115 × 115" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="640" y="153" width="115" height="115" />
         </mxCell>
-        <mxCell id="b-rear" value="Rack-Rückkante 260 mm → ca. 60 mm hinter Boden B" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="520" y="388" width="430" height="35" />
+        <mxCell id="b-rear" value="ca. 110 mm hinter Boden B" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="520" y="310" width="430" height="35" />
         </mxCell>
-        <mxCell id="sh-note1" value="A: 2 Hue und Sonos brauchen in dieser Anordnung mehr als 200 mm Bodentiefe. Netzteil- und Ethernet-Kabel ragen zusätzlich heraus." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="455" width="900" height="75" />
+        <mxCell id="c-label" value="C · HE 7 · TaHoma quer auf 150 mm?" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="405" width="450" height="35" />
         </mxCell>
-        <mxCell id="sh-note2" value="B: Bosch Controller 100 × 100 × 29 mm (deine Angabe). Neben der flach liegenden TaHoma passt er auf ca. 200 mm Bodentiefe; 150 mm reichen für diese Kombination nicht." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="545" width="900" height="80" />
+        <mxCell id="c-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="65" y="445" width="212" height="150" />
         </mxCell>
-        <mxCell id="sh-note3" value="Vorhandene 150-mm-Böden können einzelne Geräte tragen. Für A mit 2 Hue + Sonos und B mit Bosch + TaHoma bleiben längere Böden eingeplant, bis Anzahl und Kabelplatz geklärt sind." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="40" y="645" width="900" height="70" />
+        <mxCell id="c-tahoma" value="TaHoma&#10;162 × 67" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="75" y="455" width="162" height="67" />
+        </mxCell>
+        <mxCell id="sh-note1" value="A/B: Diese beiden Kombinationen hast du auf vorhandenen 150-mm-Böden nebeneinander ausprobiert. Bei Hue + Sonos ist seitlich wenig Abstand; Stecker und Kabel im Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="520" y="405" width="560" height="95" />
+        </mxCell>
+        <mxCell id="sh-note2" value="C ist ein Vorschlag: TaHoma mit 162 mm quer, 67 mm in die Tiefe. Gerät, Netzteil und Montagehöhe auf einem dritten Boden im T1 Plus noch nicht erprobt." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="520" y="515" width="560" height="95" />
+        </mxCell>
+        <mxCell id="sh-note3" value="Die Zeichnung zeigt nur Stellflächen. Für HE 7 zusätzlich vertikalen Platz sowie Abstand zur rückseitigen PDU 2 prüfen. 200-/230-mm-Böden sind in diesem Entwurf nicht mehr eingeplant." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="635" width="1040" height="75" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -197,7 +203,7 @@
         <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Beide Leisten mit eigenen Zuleitungen zur Wandsteckdose/Stromversorgung führen; nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Rückseite offen lassen: Platz hinter dem Rack für Netzteile, Stecker und Zugentlastung vorsehen. HE 7 ist nur vorn frei." vertex="1">
+        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Rückseite offen lassen: Platz hinter dem Rack für Netzteile, Stecker und Zugentlastung vorsehen. HE 7: Tiefe von TaHoma-Boden und PDU 2 zusammen prüfen." vertex="1">
           <mxGeometry height="95" width="440" x="675" y="585" as="geometry" />
         </mxCell>
       </root>

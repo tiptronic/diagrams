@@ -13,7 +13,7 @@
         <mxCell id="u0" value="HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="120" width="75" height="58" />
         </mxCell>
-        <mxCell id="gear0" value="Switch hinten montiert&#10;Front HE 8 für innenliegenden Stromstecker offen" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="gear0" value="mitgelieferte 1-HE-Blindplatte&#10;Switch rückseitig auf HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="120" width="423" height="58" />
         </mxCell>
         <mxCell id="u1" value="HE 7" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
@@ -49,11 +49,11 @@
         <mxCell id="u7" value="HE 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="42" y="575" width="75" height="58" />
         </mxCell>
-        <mxCell id="note1" value="Front: HE 8 offen (Switch hinten); HE 7 TaHoma/Green auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten: Switch HE 8 und zwei 4-fach-Leisten HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="note1" value="Front: HE 8 Blindplatte (Switch hinten); HE 7 TaHoma/Green auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten: Switch HE 8 und zwei 4-fach-Leisten HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="128" width="500" height="100" />
         </mxCell>
-        <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. Bei C steht die TaHoma etwas über. Offen bleiben Bauhöhe in HE 7, Stromstecker des rückseitigen Switches und Abstand zu den Leisten in HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="600" y="248" width="500" height="115" />
+        <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. TaHoma auf HE 8 wäre nur mit kurzem Halter denkbar: Ein 150-mm-Boden überlappt den 150-mm-Switch bei 260 mm Racktiefe. Außerdem braucht der IEC-Stecker innen Platz." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="600" y="248" width="500" height="130" />
         </mxCell>
         <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma ist über ihren Ethernet-Adapter verkabelt. Adapter, Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="383" width="500" height="130" />
@@ -191,7 +191,7 @@
         <mxCell id="rear-note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="7 Stromanschlüsse: Switch, 2 Hue, Sonos, Bosch, TaHoma, Green. Nur 1 der 8 Schuko-Dosen bleibt frei; breite Steckernetzteile können Nachbardosen verdecken. Steckprobe vor Kauf." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Switch hinten HE 8: IEC-Stromanschluss zeigt nach innen. Aus 260 mm Rack-Außentiefe minus 150 mm Switch-Tiefe folgt höchstens 110 mm für Schienen und Stecker; nutzbarer Kabelraum ist noch unbekannt. Gegebenenfalls gewinkeltes IEC-Kabel." vertex="1">
+        <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Switch hinten HE 8, mitgelieferte Blindplatte vorn: IEC-Stromanschluss zeigt nach innen. Aus 260 mm Rack-Außentiefe minus 150 mm Switch-Tiefe folgt höchstens 110 mm für Schienen und Stecker; nutzbarer Kabelraum unbekannt. Gegebenenfalls gewinkeltes IEC-Kabel." vertex="1">
           <mxGeometry height="135" width="440" x="675" y="275" as="geometry" />
         </mxCell>
         <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Leisten HE 6/5: Schuko-Dosen nach außen; Platz hinter den 150-mm-Böden und für Netzteile prüfen. Beide Leisten separat speisen, nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">

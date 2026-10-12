@@ -170,8 +170,62 @@
         <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet: Green 1 × 1 m · Pis 2 × 1 m · Hue/Bosch 2 × 1 m · Hue/Sonos 2 × 1,5 m · Uplink separat messen" vertex="1">
-          <mxGeometry height="145" width="440" x="675" y="585" as="geometry" />
+        <mxCell id="eth-title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#dae8fc;strokeColor=#9aa9b8;fontStyle=1;" value="Ethernet-Kabel" vertex="1">
+          <mxGeometry height="34" width="440" x="675" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-head-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#edf3f8;strokeColor=#9aa9b8;fontStyle=1;" value="Geräte" vertex="1">
+          <mxGeometry height="32" width="230" x="675" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-head-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#edf3f8;strokeColor=#9aa9b8;fontStyle=1;" value="Anzahl" vertex="1">
+          <mxGeometry height="32" width="80" x="905" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-head-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#edf3f8;strokeColor=#9aa9b8;fontStyle=1;" value="Länge" vertex="1">
+          <mxGeometry height="32" width="130" x="985" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-0-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="Home Assistant Green" vertex="1">
+          <mxGeometry height="34" width="230" x="675" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="1" vertex="1">
+          <mxGeometry height="34" width="80" x="905" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="1 m" vertex="1">
+          <mxGeometry height="34" width="130" x="985" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-1-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="Raspberry Pi 4 + 5" vertex="1">
+          <mxGeometry height="34" width="230" x="675" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="2" vertex="1">
+          <mxGeometry height="34" width="80" x="905" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="1 m" vertex="1">
+          <mxGeometry height="34" width="130" x="985" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-2-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="Hue + Bosch" vertex="1">
+          <mxGeometry height="34" width="230" x="675" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="2" vertex="1">
+          <mxGeometry height="34" width="80" x="905" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="1 m" vertex="1">
+          <mxGeometry height="34" width="130" x="985" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-3-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="Hue + Sonos" vertex="1">
+          <mxGeometry height="34" width="230" x="675" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="2" vertex="1">
+          <mxGeometry height="34" width="80" x="905" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="1,5 m" vertex="1">
+          <mxGeometry height="34" width="130" x="985" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-4-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="Uplink" vertex="1">
+          <mxGeometry height="34" width="230" x="675" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="1" vertex="1">
+          <mxGeometry height="34" width="80" x="905" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="eth-4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="messen" vertex="1">
+          <mxGeometry height="34" width="130" x="985" y="307" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

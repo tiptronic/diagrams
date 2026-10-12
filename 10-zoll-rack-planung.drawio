@@ -141,7 +141,7 @@
         <mxCell id="d-pi2" value="Pi 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="185" y="796" width="85" height="56" />
         </mxCell>
-        <mxCell id="d-note" value="DP-0033: Stellfläche 216 × 100 mm, laut Hersteller Platz für Pi 4 und Pi 5 nebeneinander. Konkrete Kühler, Gehäuse und Steckerhöhe vor Montage prüfen. HE 1 darunter bleibt für Luft und Kabelzugang frei." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="d-note" value="DP-0033: Stellfläche 216 × 100 mm für Pi 4 und Pi 5. Optional 2,5″-SSD an der Unterseite, per USB 3.0 angeschlossen. Kühler und Stecker vor Montage prüfen; bei SSD auch Freiraum in HE 1. Ohne SSD bleibt HE 1 für Luft und Kabel frei." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="765" width="560" height="115" />
         </mxCell>
       </root>
@@ -179,7 +179,7 @@
         <mxCell id="rear-u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 5" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 2 · 4 × Schuko · Hue 2 + Sonos + TaHoma + 1 frei" vertex="1">
+        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 2 · 4 × Schuko · Hue 2 + Sonos + TaHoma + 1 Pi; 1 Pi ohne Dose" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="315" as="geometry" />
         </mxCell>
         <mxCell id="rear-u4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 4" vertex="1">

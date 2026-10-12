@@ -65,7 +65,7 @@
         <mxCell id="note2" value="Fachböden als Planungsmaße: A ca. 230 mm, B ca. 200 mm. Die genaue Einbautiefe und Kabelanschlüsse am aufgebauten Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="248" width="500" height="115" />
         </mxCell>
-        <mxCell id="note3" value="Bosch-Modell unbekannt. TaHoma nutzt WLAN; mit Ethernet-Adapter steigt der Portbedarf. Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma nutzt WLAN; mit Ethernet-Adapter steigt der Portbedarf. Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="383" width="500" height="130" />
         </mxCell>
         <mxCell id="note4" value="Portbedarf: 2 × Hue + Bosch + Sonos + Uplink = 5. TaHoma mit optionalem Ethernet-Adapter = 6. 8 Ports reichen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" vertex="1" parent="1">
@@ -109,8 +109,8 @@
         <mxCell id="b-shelf" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="545" y="145" width="212" height="200" />
         </mxCell>
-        <mxCell id="b-bosch" value="Bosch I?&#10;120 × 135" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="550" y="152" width="120" height="135" />
+        <mxCell id="b-bosch" value="Bosch Controller&#10;100 × 100 × 29" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="550" y="152" width="100" height="100" />
         </mxCell>
         <mxCell id="b-tahoma" value="TaHoma&#10;67 × 162" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="680" y="152" width="67" height="162" />
@@ -121,10 +121,10 @@
         <mxCell id="sh-note1" value="A: 2 Hue und Sonos brauchen in dieser Anordnung mehr als 200 mm Bodentiefe. Netzteil- und Ethernet-Kabel ragen zusätzlich heraus." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="455" width="900" height="75" />
         </mxCell>
-        <mxCell id="sh-note2" value="B: Bosch-Abmessung gilt nur für Controller I; das genaue Gerät bleibt zu prüfen. Die TaHoma liegt flach. Steckplätze und Kabelrichtung beim Aufbau prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sh-note2" value="B: Bosch Controller 100 × 100 × 29 mm (deine Angabe). Neben der flach liegenden TaHoma passt er auf ca. 200 mm Bodentiefe; 150 mm reichen für diese Kombination nicht." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="545" width="900" height="80" />
         </mxCell>
-        <mxCell id="sh-note3" value="Die zwei Steckdosenleisten sitzen oben hinten an den Rückschienen. Der Raum hinter den Böden dient der Kabelführung, nicht als durchgehend freie Geräteebene." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="sh-note3" value="Vorhandene 150-mm-Böden können einzelne Geräte tragen. Für A mit 2 Hue + Sonos und B mit Bosch + TaHoma bleiben längere Böden eingeplant, bis Anzahl und Kabelplatz geklärt sind." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="645" width="900" height="70" />
         </mxCell>
       </root>

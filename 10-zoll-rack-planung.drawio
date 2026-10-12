@@ -55,10 +55,10 @@
         <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. Bei C steht die TaHoma etwas über. Offen bleiben Bauhöhe in HE 7, Stecker/Kabel und Abstand zu den rückseitigen Leisten in HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="248" width="500" height="115" />
         </mxCell>
-        <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma nutzt WLAN; mit Ethernet-Adapter steigt der Portbedarf. Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma ist über ihren Ethernet-Adapter verkabelt. Adapter, Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="383" width="500" height="130" />
         </mxCell>
-        <mxCell id="note4" value="Portbedarf: 2 × Hue + Bosch + Sonos + Green + Uplink = 6. Mit optionalem TaHoma-Ethernet-Adapter = 7. 8 Ports reichen rechnerisch." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="note4" value="Portbedarf: 2 × Hue + Bosch + Sonos + Green + TaHoma-Adapter + Uplink = 7 von 8 Switch-Ports. Ein Port bleibt frei." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#f5f5f5;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="533" width="500" height="87" />
         </mxCell>
       </root>
@@ -120,7 +120,7 @@
         <mxCell id="sh-note1" value="A/B: Diese beiden Kombinationen hast du auf vorhandenen 150-mm-Böden nebeneinander ausprobiert. Bei Hue + Sonos ist seitlich wenig Abstand; Stecker und Kabel im Rack prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="405" width="560" height="95" />
         </mxCell>
-        <mxCell id="sh-note2" value="C: Green 112 × 112 × 32 mm und TaHoma 67 × 162 × 35 mm passen laut deiner Stellprobe nebeneinander. Die TaHoma steht etwas über den 150-mm-Boden hinaus. Netzteile und Kabel noch prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sh-note2" value="C: Green 112 × 112 × 32 mm und TaHoma 67 × 162 × 35 mm passen laut deiner Stellprobe nebeneinander. TaHoma steht etwas über. Ethernet-Adapter, Netzteile und Kabelweg noch prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="515" width="560" height="95" />
         </mxCell>
         <mxCell id="sh-note3" value="Die Stellflächen A, B und C sind durch deine Probe bestätigt. Für den Einbau im Rack noch die Höhe von Boden + Geräten in HE 7 sowie den Abstand zu den rückseitigen Leisten in HE 6/5 prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -197,7 +197,7 @@
         <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Beide Leisten mit eigenen Zuleitungen zur Wandsteckdose/Stromversorgung führen; nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet intern (vorläufig): Green HE 7: 0,5–1 m; Hue 1 + Bosch HE 6: je 1 m; Hue 2 + Sonos HE 4: je 1 m. Uplink zum Hauptnetz nach realem Weg messen. Flexible Cat-6-Patchkabel rechts führen." vertex="1">
+        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet intern (vorläufig): Green + TaHoma-Adapter HE 7: je 1 m; Hue 1 + Bosch HE 6: je 1 m; Hue 2 + Sonos HE 4: je 1 m. Also 6 interne Kabel; Uplink nach realem Weg messen. Cat 6 rechts führen." vertex="1">
           <mxGeometry height="110" width="440" x="675" y="585" as="geometry" />
         </mxCell>
       </root>

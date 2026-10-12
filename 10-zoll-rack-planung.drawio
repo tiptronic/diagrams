@@ -52,7 +52,7 @@
         <mxCell id="note1" value="Front: HE 8 Switch; HE 7 TaHoma/Green auf Boden C; HE 6–5 Hue/Bosch auf Boden A; HE 4–3 Hue/Sonos auf Boden B; HE 2–1 Schublade. Hinten bleiben zwei 4-fach-Leisten." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="128" width="500" height="100" />
         </mxCell>
-        <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. Bei C steht die TaHoma etwas über. Offen bleiben Bauhöhe in HE 7, Stecker/Kabel und Abstand zur rückseitigen PDU 2." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="note2" value="A/B/C: Gerätepaarungen passen laut deiner Stellprobe auf 150-mm-Böden. Bei C steht die TaHoma etwas über. Offen bleiben Bauhöhe in HE 7, Stecker/Kabel und Abstand zu den rückseitigen Leisten in HE 6/5." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="600" y="248" width="500" height="115" />
         </mxCell>
         <mxCell id="note3" value="Bosch Controller: 100 × 100 × 29 mm laut deiner Angabe. TaHoma nutzt WLAN; mit Ethernet-Adapter steigt der Portbedarf. Netzteile und Funkabstand bei der Montage prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;align=left;spacing=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -123,7 +123,7 @@
         <mxCell id="sh-note2" value="C: Green 112 × 112 × 32 mm und TaHoma 67 × 162 × 35 mm passen laut deiner Stellprobe nebeneinander. Die TaHoma steht etwas über den 150-mm-Boden hinaus. Netzteile und Kabel noch prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="520" y="515" width="560" height="95" />
         </mxCell>
-        <mxCell id="sh-note3" value="Die Stellflächen A, B und C sind durch deine Probe bestätigt. Für den Einbau im Rack noch die Höhe von Boden + Geräten in HE 7 sowie den Abstand zur rückseitigen PDU 2 prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="sh-note3" value="Die Stellflächen A, B und C sind durch deine Probe bestätigt. Für den Einbau im Rack noch die Höhe von Boden + Geräten in HE 7 sowie den Abstand zu den rückseitigen Leisten in HE 6/5 prüfen." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="40" y="635" width="1040" height="75" />
         </mxCell>
       </root>
@@ -140,28 +140,28 @@
         <mxCell id="rear-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#ffffff;strokeColor=#ffffff;" value="Konzept: zwei 10″-Leisten mit je 4 Schuko-Dosen; Steckplätze zeigen nach hinten außen" vertex="1">
           <mxGeometry height="30" width="1000" x="40" y="68" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 8" vertex="1">
+        <mxCell id="rear-u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 8" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 1 · 4 × Schuko · Switch + 2 × Hue + Sonos" vertex="1">
+        <mxCell id="rear-item0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 7" vertex="1">
+        <mxCell id="rear-u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 7" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 2 · 4 × Schuko · Bosch + TaHoma + Green + 1 Reserve" vertex="1">
+        <mxCell id="rear-item1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="HE 6" vertex="1">
+        <mxCell id="rear-u2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 6" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="" vertex="1">
+        <mxCell id="rear-item2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 1 · 4 × Schuko · Switch + Green + Hue 1 + Bosch" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="rear-u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="HE 5" vertex="1">
+        <mxCell id="rear-u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 5" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1f2df;strokeColor=#555555;" value="" vertex="1">
+        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="PDU 2 · 4 × Schuko · Hue 2 + Sonos + TaHoma + 1 frei" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="315" as="geometry" />
         </mxCell>
         <mxCell id="rear-u4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 4" vertex="1">
@@ -191,14 +191,14 @@
         <mxCell id="rear-note1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" value="7 Stromanschlüsse: Switch, 2 Hue, Sonos, Bosch, TaHoma, Green. Nur 1 der 8 Schuko-Dosen bleibt frei; breite Steckernetzteile können Nachbardosen verdecken. Steckprobe vor Kauf." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PDU-Montage an den Rückschienen als Konzept. Bei HE 8 treffen Switch (150 mm tief), Stromstecker und PDU aufeinander: Einbau und Kabelbogen am realen Rack prüfen." vertex="1">
+        <mxCell id="rear-note2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PDUs hinten in HE 6/5 als Konzept. 150-mm-Fachböden und Netzteile teilen sich die Racktiefe mit den Leisten. Schuko-Stecker nach hinten außen ausrichten; freien Platz hinter dem Rack und Kabelbogen am Aufbau prüfen." vertex="1">
           <mxGeometry height="135" width="440" x="675" y="275" as="geometry" />
         </mxCell>
         <mxCell id="rear-note3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Beide Leisten mit eigenen Zuleitungen zur Wandsteckdose/Stromversorgung führen; nicht ineinanderstecken. Strom links, Netzwerk rechts bündeln." vertex="1">
           <mxGeometry height="125" width="440" x="675" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Rückseite offen lassen: Platz hinter dem Rack für Netzteile, Stecker und Zugentlastung vorsehen. HE 7: TaHoma/Green-Boden, Stecker und PDU 2 zusammen prüfen." vertex="1">
-          <mxGeometry height="95" width="440" x="675" y="585" as="geometry" />
+        <mxCell id="rear-note4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#999999;" value="Ethernet intern (vorläufig): Green HE 7: 0,5–1 m; Hue 1 + Bosch HE 6: je 1 m; Hue 2 + Sonos HE 4: je 1 m. Uplink zum Hauptnetz nach realem Weg messen. Flexible Cat-6-Patchkabel rechts führen." vertex="1">
+          <mxGeometry height="110" width="440" x="675" y="585" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

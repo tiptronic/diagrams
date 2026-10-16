@@ -10,9 +10,6 @@
         <mxCell id="u0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 8" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="gear0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="Blindplatte" vertex="1">
-          <mxGeometry height="58" width="423" x="117" y="120" as="geometry" />
-        </mxCell>
         <mxCell id="u1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 7" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="185" as="geometry" />
         </mxCell>
@@ -21,9 +18,6 @@
         </mxCell>
         <mxCell id="u2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#555555;" value="HE 6" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="gear2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="frei" vertex="1">
-          <mxGeometry height="58" width="423" x="117" y="185" as="geometry" />
         </mxCell>
         <mxCell id="u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 5" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
@@ -51,6 +45,30 @@
         </mxCell>
         <mxCell id="u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="HE 1" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="display-bezel" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#18232d;strokeColor=#354b58;" value="" vertex="1">
+          <mxGeometry height="123" width="423" x="117" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="display-screen" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#071923;strokeColor=#168da1;" value="" vertex="1">
+          <mxGeometry height="105" width="401" x="128" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="display-title" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontColor=#d9f7fa;" value="HOME ASSISTANT · RACK" vertex="1">
+          <mxGeometry height="20" width="260" x="140" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="display-online" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fillColor=#123f39;strokeColor=#2dbfa3;fontSize=10;fontStyle=1;fontColor=#a9f3df;" value="● ONLINE" vertex="1">
+          <mxGeometry height="20" width="80" x="436" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="display-ha" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fillColor=#123341;strokeColor=#25647a;fontSize=12;fontColor=#e7f7fb;" value="HOME ASSISTANT&#xa;Bereit" vertex="1">
+          <mxGeometry height="52" width="116" x="140" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="display-network" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fillColor=#123341;strokeColor=#25647a;fontSize=12;fontColor=#e7f7fb;" value="NETZWERK&#xa;8 Ports" vertex="1">
+          <mxGeometry height="52" width="116" x="268" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="display-pis" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fillColor=#123341;strokeColor=#25647a;fontSize=12;fontColor=#e7f7fb;" value="RASPBERRY PI&#xa;Pi 4 + Pi 5" vertex="1">
+          <mxGeometry height="52" width="116" x="396" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="display-caption" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontSize=10;fontColor=#8bb5c2;" value="7,84″ Touchdisplay · 1280 × 400 · HE 7–8" vertex="1">
+          <mxGeometry height="14" width="372" x="142" y="216" as="geometry" />
         </mxCell>
         <mxCell id="power-summary" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" value="Strom: 8 Netzteile · 8 Steckdosen (2 × 4-fach)" vertex="1">
           <mxGeometry height="58" width="500" x="600" y="120" as="geometry" />

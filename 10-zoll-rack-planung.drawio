@@ -155,19 +155,19 @@
         <mxCell id="rear-u2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 6" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-95418 · 4 × Schuko · Switch + Green + Hue 1 + Bosch" vertex="1">
+        <mxCell id="rear-item2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="10″ Patchpanel · Anschlüsse hinter den Raspberry Pis" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="250" as="geometry" />
         </mxCell>
         <mxCell id="rear-u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 5" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-95418 · 4 × Schuko · Hue 2 + Sonos + Pi 4 + Pi 5" vertex="1">
+        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="315" as="geometry" />
         </mxCell>
         <mxCell id="rear-u4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 4" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="" vertex="1">
+        <mxCell id="rear-item4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-95418 · 4 × Schuko · Switch + Green + Hue 1 + Bosch" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="380" as="geometry" />
         </mxCell>
         <mxCell id="rear-u5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 3" vertex="1">
@@ -179,7 +179,7 @@
         <mxCell id="rear-u6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 2" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
+        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-95418 · 4 × Schuko · Hue 2 + Sonos + Pi 4 + Pi 5" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="510" as="geometry" />
         </mxCell>
         <mxCell id="rear-u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 1" vertex="1">

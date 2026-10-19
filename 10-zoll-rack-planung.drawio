@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="5">
   <diagram name="DeskPi 8 HE – Front" id="rack-v1">
-    <mxGraphModel dx="1459" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,92 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="Switch und Patchpanel" id="ports-v1">
+    <mxGraphModel dx="1441" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ports-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;fontStyle=1;" value="Patchpanel und Switch · Stand der Planung" vertex="1">
+          <mxGeometry height="48" width="1060" x="50" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ports-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#ffffff;" value="deleyCON · 12 Keystone-Plätze · HE 6" vertex="1">
+          <mxGeometry height="40" width="1060" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#dae8fc;strokeColor=#aab7c4;" value="K1&#xa;Pi 1 · USB 1" vertex="1">
+          <mxGeometry height="82" width="160" x="50" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K2&#xa;Pi 1 · USB 2" vertex="1">
+          <mxGeometry height="82" width="160" x="225" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K3&#xa;Pi 2 · USB 1" vertex="1">
+          <mxGeometry height="82" width="160" x="400" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K4&#xa;Pi 2 · USB 2" vertex="1">
+          <mxGeometry height="82" width="160" x="575" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K5&#xa;Pi 2 · HDMI" vertex="1">
+          <mxGeometry height="82" width="160" x="750" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K6&#xa;USB · Licht 1" vertex="1">
+          <mxGeometry height="82" width="160" x="925" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K7&#xa;USB · Licht 2" vertex="1">
+          <mxGeometry height="82" width="160" x="50" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K8&#xa;frei" vertex="1">
+          <mxGeometry height="82" width="160" x="225" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K9&#xa;frei" vertex="1">
+          <mxGeometry height="82" width="160" x="400" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K10&#xa;frei" vertex="1">
+          <mxGeometry height="82" width="160" x="575" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K11&#xa;frei" vertex="1">
+          <mxGeometry height="82" width="160" x="750" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-slot-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K12&#xa;frei" vertex="1">
+          <mxGeometry height="82" width="160" x="925" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="panel-status" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#ffffff;" value="Vorhanden: USB K1, HDMI K2 · Umbau: HDMI nach K5, USB in K2–K4" vertex="1">
+          <mxGeometry height="42" width="1035" x="50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="display-direct" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#e1f2df;strokeColor=#aab7c4;" value="Pi 1 → HDMI + USB-C direkt zum 7,84″-Rackmonitor" vertex="1">
+          <mxGeometry height="52" width="1035" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=17;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="DIGITUS DN-80114 · 8 Switch-Ports" vertex="1">
+          <mxGeometry height="44" width="1035" x="50" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="1&#xa;Hue 1" vertex="1">
+          <mxGeometry height="75" width="125" x="50" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="2&#xa;Sonos" vertex="1">
+          <mxGeometry height="75" width="125" x="180" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="3&#xa;Hue 2" vertex="1">
+          <mxGeometry height="75" width="125" x="310" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="4&#xa;Bosch" vertex="1">
+          <mxGeometry height="75" width="125" x="440" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="5&#xa;Green" vertex="1">
+          <mxGeometry height="75" width="125" x="570" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="6&#xa;Pi 1" vertex="1">
+          <mxGeometry height="75" width="125" x="700" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="7&#xa;Pi 2 optional" vertex="1">
+          <mxGeometry height="75" width="125" x="830" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="8&#xa;Uplink" vertex="1">
+          <mxGeometry height="75" width="125" x="960" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-count" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#aab7c4;fontStyle=1;" value="Belegt: 7/8 mit einem Pi · 8/8 mit zwei Pis" vertex="1">
+          <mxGeometry height="48" width="1035" x="50" y="645" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Keller – DSIT 12 HE" id="basement-v1">
     <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1169" pageHeight="827">
       <root>
@@ -327,92 +413,6 @@
         </mxCell>
         <mxCell id="basement-gear-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=14;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="117" y="618" width="480" height="42" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Switch und Patchpanel" id="ports-v1">
-    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ports-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=23;fillColor=#ffffff;strokeColor=#ffffff;fontStyle=1;" value="Patchpanel und Switch · Stand der Planung" vertex="1">
-          <mxGeometry x="50" y="25" width="1060" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="ports-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#ffffff;" value="deleyCON · 12 Keystone-Plätze · HE 6" vertex="1">
-          <mxGeometry x="50" y="80" width="1060" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#dae8fc;strokeColor=#aab7c4;" value="K1&#xa;Pi 1 · USB 1" vertex="1">
-          <mxGeometry x="50" y="145" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K2&#xa;Pi 1 · USB 2" vertex="1">
-          <mxGeometry x="225" y="145" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K3&#xa;Pi 2 · USB 1" vertex="1">
-          <mxGeometry x="400" y="145" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K4&#xa;Pi 2 · USB 2" vertex="1">
-          <mxGeometry x="575" y="145" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K5&#xa;Pi 2 · HDMI" vertex="1">
-          <mxGeometry x="750" y="145" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K6&#xa;USB · Licht 1" vertex="1">
-          <mxGeometry x="925" y="145" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="K7&#xa;USB · Licht 2" vertex="1">
-          <mxGeometry x="50" y="245" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K8&#xa;frei" vertex="1">
-          <mxGeometry x="225" y="245" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K9&#xa;frei" vertex="1">
-          <mxGeometry x="400" y="245" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K10&#xa;frei" vertex="1">
-          <mxGeometry x="575" y="245" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K11&#xa;frei" vertex="1">
-          <mxGeometry x="750" y="245" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-slot-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="K12&#xa;frei" vertex="1">
-          <mxGeometry x="925" y="245" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="panel-status" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#ffffff;" value="Vorhanden: USB K1, HDMI K2 · Umbau: HDMI nach K5, USB in K2–K4" vertex="1">
-          <mxGeometry x="50" y="350" width="1035" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="display-direct" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#e1f2df;strokeColor=#aab7c4;" value="Pi 1 → HDMI + USB-C direkt zum 7,84″-Rackmonitor" vertex="1">
-          <mxGeometry x="50" y="410" width="1035" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=17;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="DIGITUS DN-80114 · 8 Switch-Ports" vertex="1">
-          <mxGeometry x="50" y="495" width="1035" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="1&#xa;Hue 1" vertex="1">
-          <mxGeometry x="50" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="2&#xa;Sonos" vertex="1">
-          <mxGeometry x="180" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="3&#xa;Hue 2" vertex="1">
-          <mxGeometry x="310" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="4&#xa;Bosch" vertex="1">
-          <mxGeometry x="440" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="5&#xa;Green" vertex="1">
-          <mxGeometry x="570" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="6&#xa;Pi 1" vertex="1">
-          <mxGeometry x="700" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="7&#xa;Pi 2 optional" vertex="1">
-          <mxGeometry x="830" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-port-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="8&#xa;Uplink" vertex="1">
-          <mxGeometry x="960" y="550" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="switch-count" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#aab7c4;fontStyle=1;" value="Belegt: 7/8 mit einem Pi · 8/8 mit zwei Pis" vertex="1">
-          <mxGeometry x="50" y="645" width="1035" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

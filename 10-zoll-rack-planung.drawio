@@ -387,14 +387,32 @@
         <mxCell id="switch-title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=17;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="DIGITUS DN-80114 · 8 Switch-Ports" vertex="1">
           <mxGeometry x="50" y="495" width="1035" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="switch-internal" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Direkt im Rack: 2 × Hue, Bosch, Sonos, Green, Pi 1 = 6 Ports" vertex="1">
-          <mxGeometry x="50" y="539" width="1035" height="48" as="geometry" />
+        <mxCell id="switch-port-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="1&#xa;Hue 1" vertex="1">
+          <mxGeometry x="50" y="550" width="125" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="switch-other" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Uplink: 1 Port · Pi 2 bei Einbau: 1 Port" vertex="1">
-          <mxGeometry x="50" y="587" width="1035" height="48" as="geometry" />
+        <mxCell id="switch-port-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="2&#xa;Sonos" vertex="1">
+          <mxGeometry x="180" y="550" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="3&#xa;Hue 2" vertex="1">
+          <mxGeometry x="310" y="550" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="4&#xa;Bosch" vertex="1">
+          <mxGeometry x="440" y="550" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="5&#xa;Green" vertex="1">
+          <mxGeometry x="570" y="550" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="6&#xa;Pi 1" vertex="1">
+          <mxGeometry x="700" y="550" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="7&#xa;Pi 2 optional" vertex="1">
+          <mxGeometry x="830" y="550" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="switch-port-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="8&#xa;Uplink" vertex="1">
+          <mxGeometry x="960" y="550" width="125" height="75" as="geometry" />
         </mxCell>
         <mxCell id="switch-count" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#aab7c4;fontStyle=1;" value="Belegt: 7/8 mit einem Pi · 8/8 mit zwei Pis" vertex="1">
-          <mxGeometry x="50" y="635" width="1035" height="48" as="geometry" />
+          <mxGeometry x="50" y="645" width="1035" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

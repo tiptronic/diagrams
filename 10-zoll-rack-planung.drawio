@@ -188,7 +188,7 @@
         <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="575" as="geometry" />
         </mxCell>
-        <mxCell id="eth-title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#dae8fc;strokeColor=#9aa9b8;fontStyle=1;" value="Gerät → Patchpanel · Kabellängen vorläufig" vertex="1">
+        <mxCell id="eth-title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#dae8fc;strokeColor=#9aa9b8;fontStyle=1;" value="Ethernet-Kabel · Längen vorläufig" vertex="1">
           <mxGeometry height="34" width="440" x="675" y="105" as="geometry" />
         </mxCell>
         <mxCell id="eth-head-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#edf3f8;strokeColor=#9aa9b8;fontStyle=1;" value="Geräte" vertex="1">
@@ -339,10 +339,10 @@
         <mxCell id="ports-title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=23;fillColor=#ffffff;strokeColor=#aab7c4;fontStyle=1;" value="Switch und Keystone-Patchpanel · geplante Belegung" vertex="1">
           <mxGeometry x="50" y="30" width="1060" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ports-sub" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="Patchpanel HE 6 · 8 × RJ45-Durchgangskeystone · Switch DIGITUS DN-80114 HE 8" vertex="1">
+        <mxCell id="ports-sub" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=15;fillColor=#ffffff;strokeColor=#aab7c4;" value="Patchpanel HE 6 · K1 USB · K2 HDMI · K3–K8 RJ45-Durchgang · Switch HE 8" vertex="1">
           <mxGeometry x="50" y="85" width="1060" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ports-head-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="Keystone" vertex="1">
+        <mxCell id="ports-head-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="Panelplatz / Modul" vertex="1">
           <mxGeometry x="60" y="145" width="170" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ports-head-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="Switch-Port" vertex="1">
@@ -351,70 +351,70 @@
         <mxCell id="ports-head-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#dae8fc;strokeColor=#aab7c4;fontStyle=1;" value="Gerät / Verbindung" vertex="1">
           <mxGeometry x="420" y="145" width="690" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ports-0-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K1" vertex="1">
+        <mxCell id="ports-0-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K1 · USB" vertex="1">
           <mxGeometry x="60" y="189" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="1" vertex="1">
+        <mxCell id="ports-0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="—" vertex="1">
           <mxGeometry x="230" y="189" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Hue Bridge 1 · HE 3" vertex="1">
+        <mxCell id="ports-0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Raspberry Pi · USB" vertex="1">
           <mxGeometry x="420" y="189" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-1-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K2" vertex="1">
+        <mxCell id="ports-1-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K2 · HDMI" vertex="1">
           <mxGeometry x="60" y="243" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="2" vertex="1">
+        <mxCell id="ports-1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="—" vertex="1">
           <mxGeometry x="230" y="243" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Sonos Boost · HE 3" vertex="1">
+        <mxCell id="ports-1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Raspberry Pi · HDMI" vertex="1">
           <mxGeometry x="420" y="243" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-2-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K3" vertex="1">
+        <mxCell id="ports-2-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K3 · RJ45" vertex="1">
           <mxGeometry x="60" y="297" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="3" vertex="1">
+        <mxCell id="ports-2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="1" vertex="1">
           <mxGeometry x="230" y="297" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Hue Bridge 2 · HE 4" vertex="1">
+        <mxCell id="ports-2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Hue Bridge 1 · HE 3" vertex="1">
           <mxGeometry x="420" y="297" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-3-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K4" vertex="1">
+        <mxCell id="ports-3-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K4 · RJ45" vertex="1">
           <mxGeometry x="60" y="351" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="4" vertex="1">
+        <mxCell id="ports-3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="2" vertex="1">
           <mxGeometry x="230" y="351" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Bosch Controller · HE 4" vertex="1">
+        <mxCell id="ports-3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Sonos Boost · HE 3" vertex="1">
           <mxGeometry x="420" y="351" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-4-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K5" vertex="1">
+        <mxCell id="ports-4-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K5 · RJ45" vertex="1">
           <mxGeometry x="60" y="405" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="5" vertex="1">
+        <mxCell id="ports-4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="3" vertex="1">
           <mxGeometry x="230" y="405" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Home Assistant Green · HE 5" vertex="1">
+        <mxCell id="ports-4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Hue Bridge 2 · HE 4" vertex="1">
           <mxGeometry x="420" y="405" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-5-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K6" vertex="1">
+        <mxCell id="ports-5-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K6 · RJ45" vertex="1">
           <mxGeometry x="60" y="459" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="6" vertex="1">
+        <mxCell id="ports-5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="4" vertex="1">
           <mxGeometry x="230" y="459" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Raspberry Pi 4 · HE 6" vertex="1">
+        <mxCell id="ports-5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Bosch Controller · HE 4" vertex="1">
           <mxGeometry x="420" y="459" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-6-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K7" vertex="1">
+        <mxCell id="ports-6-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="K7 · RJ45" vertex="1">
           <mxGeometry x="60" y="513" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="7" vertex="1">
+        <mxCell id="ports-6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="5" vertex="1">
           <mxGeometry x="230" y="513" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Raspberry Pi 5 · HE 6" vertex="1">
+        <mxCell id="ports-6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#ffffff;strokeColor=#aab7c4;" value="Home Assistant Green · HE 5" vertex="1">
           <mxGeometry x="420" y="513" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-7-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K8" vertex="1">
+        <mxCell id="ports-7-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="K8 · RJ45" vertex="1">
           <mxGeometry x="60" y="567" width="170" height="54" as="geometry" />
         </mxCell>
         <mxCell id="ports-7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="8" vertex="1">
@@ -423,7 +423,7 @@
         <mxCell id="ports-7-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=16;fillColor=#f5f7f9;strokeColor=#aab7c4;" value="Uplink" vertex="1">
           <mxGeometry x="420" y="567" width="690" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ports-foot" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="Switch ↔ Patchpanel: 8 kurze Patchkabel" vertex="1">
+        <mxCell id="ports-foot" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=12;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="Direkt am Switch: Port 6 → Pi 4 · Port 7 → Pi 5. Patchpanel: 6 kurze Patchkabel." vertex="1">
           <mxGeometry x="60" y="645" width="1050" height="48" as="geometry" />
         </mxCell>
       </root>

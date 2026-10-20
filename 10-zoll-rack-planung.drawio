@@ -161,7 +161,7 @@
         <mxCell id="rear-u3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="HE 5" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
+        <mxCell id="rear-item3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-95418 · 4 × Schuko · Hue 2 + Sonos + Pi 4 + Pi 5" vertex="1">
           <mxGeometry height="58" width="510" x="117" y="315" as="geometry" />
         </mxCell>
         <mxCell id="rear-u4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#555555;" value="HE 4" vertex="1">
@@ -179,14 +179,11 @@
         <mxCell id="rear-u6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 2" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#d9eaf7;strokeColor=#555555;" value="DIGITUS DN-95418 · 4 × Schuko · Hue 2 + Sonos + Pi 4 + Pi 5" vertex="1">
-          <mxGeometry height="58" width="510" x="117" y="510" as="geometry" />
+        <mxCell id="rear-item6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" value="Schublade von vorn" vertex="1">
+          <mxGeometry height="123" width="510" x="117" y="510" as="geometry" />
         </mxCell>
         <mxCell id="rear-u7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="HE 1" vertex="1">
           <mxGeometry height="58" width="75" x="42" y="575" as="geometry" />
-        </mxCell>
-        <mxCell id="rear-item7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" value="" vertex="1">
-          <mxGeometry height="58" width="510" x="117" y="575" as="geometry" />
         </mxCell>
         <mxCell id="eth-title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#dae8fc;strokeColor=#9aa9b8;fontStyle=1;" value="Ethernet-Kabel · Längen vorläufig" vertex="1">
           <mxGeometry height="34" width="440" x="675" y="105" as="geometry" />
@@ -506,7 +503,7 @@
         <mxCell id="alt-rear-panel" value="12-Port-Patchpanel" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry x="680" y="280" width="405" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="alt-rear-free5" value="frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
+        <mxCell id="alt-rear-pdu5" value="4 × Schuko" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry x="680" y="345" width="405" height="58" as="geometry" />
         </mxCell>
         <mxCell id="alt-rear-pdu4" value="4 × Schuko" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#555555;" vertex="1" parent="1">
@@ -515,16 +512,13 @@
         <mxCell id="alt-rear-free3" value="frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
           <mxGeometry x="680" y="475" width="405" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="alt-rear-pdu2" value="4 × Schuko" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry x="680" y="540" width="405" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="alt-rear-free1" value="frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#555555;" vertex="1" parent="1">
-          <mxGeometry x="680" y="605" width="405" height="58" as="geometry" />
+        <mxCell id="alt-rear-drawer" value="Schublade von vorn" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="680" y="540" width="405" height="123" as="geometry" />
         </mxCell>
         <mxCell id="alt-note-lan" value="Pi 5 LAN → Switch HE 8" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="615" y="695" width="470" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="alt-note-fit" value="HE 7: Einbautiefe von Monitor und Pi 5/SSD prüfen" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="alt-note-fit" value="Einbautiefe prüfen: HE 5 Schuko/Green · HE 7 Monitor/Pi 5" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="745" width="1045" height="40" as="geometry" />
         </mxCell>
       </root>

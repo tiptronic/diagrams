@@ -233,7 +233,7 @@
         <mxCell id="eth-3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#f5f7f9;strokeColor=#9aa9b8;" value="1,5 m" vertex="1">
           <mxGeometry height="34" width="130" x="985" y="273" as="geometry" />
         </mxCell>
-        <mxCell id="eth-4-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="Uplink" vertex="1">
+        <mxCell id="eth-4-0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="DIGITUS → QNAP" vertex="1">
           <mxGeometry height="34" width="230" x="675" y="307" as="geometry" />
         </mxCell>
         <mxCell id="eth-4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;strokeWidth=1;fontSize=14;fillColor=#ffffff;strokeColor=#9aa9b8;" value="1" vertex="1">
@@ -322,7 +322,7 @@
         <mxCell id="switch-port-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#aab7c4;" value="7&#xa;frei" vertex="1">
           <mxGeometry height="75" width="125" x="830" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="switch-port-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="8&#xa;FRITZ!Box · 1G" vertex="1">
+        <mxCell id="switch-port-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#aab7c4;" value="8&#xa;QNAP Port 8" vertex="1">
           <mxGeometry height="75" width="125" x="960" y="550" as="geometry" />
         </mxCell>
         <mxCell id="switch-count" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeWidth=1;fontSize=16;fillColor=#fff2cc;strokeColor=#aab7c4;fontStyle=1;" value="Belegt: 7/8" vertex="1">
@@ -346,9 +346,9 @@
         <mxCell id="p2-q5" value="5 · Corsair AI 300&#xa;RJ45 · 2,5G" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="50" y="263" width="245" height="68" as="geometry" /></mxCell>
         <mxCell id="p2-q6" value="6 · frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#f5f5f5;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="310" y="263" width="245" height="68" as="geometry" /></mxCell>
         <mxCell id="p2-q7" value="7 · frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#f5f5f5;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="570" y="263" width="245" height="68" as="geometry" /></mxCell>
-        <mxCell id="p2-q8" value="8 · frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#f5f5f5;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="830" y="263" width="245" height="68" as="geometry" /></mxCell>
-        <mxCell id="p2-qnap-count" value="QNAP: 5/8 belegt · 3 frei" style="text;html=1;align=left;verticalAlign=middle;fontSize=15;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="50" y="340" width="1035" height="30" as="geometry" /></mxCell>
-        <mxCell id="p2-digitus-title" value="DIGITUS DN-80114 · 8 × 1 GbE · Uplink an FRITZ!Box 1G-LAN" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=12;verticalAlign=middle;fontSize=17;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="50" y="390" width="1035" height="40" as="geometry" /></mxCell>
+        <mxCell id="p2-q8" value="8 · DIGITUS Port 8&#xa;1 GbE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#fff2cc;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="830" y="263" width="245" height="68" as="geometry" /></mxCell>
+        <mxCell id="p2-qnap-count" value="QNAP: 6/8 belegt · 2 frei" style="text;html=1;align=left;verticalAlign=middle;fontSize=15;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="50" y="340" width="1035" height="30" as="geometry" /></mxCell>
+        <mxCell id="p2-digitus-title" value="DIGITUS DN-80114 · 8 × 1 GbE · Uplink an QNAP Port 8" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=12;verticalAlign=middle;fontSize=17;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="50" y="390" width="1035" height="40" as="geometry" /></mxCell>
         <mxCell id="p2-d1" value="1&#xa;Hue 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="50" y="440" width="125" height="60" as="geometry" /></mxCell>
         <mxCell id="p2-d2" value="2&#xa;Sonos" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="180" y="440" width="125" height="60" as="geometry" /></mxCell>
         <mxCell id="p2-d3" value="3&#xa;Hue 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="310" y="440" width="125" height="60" as="geometry" /></mxCell>
@@ -356,7 +356,7 @@
         <mxCell id="p2-d5" value="5&#xa;Green" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="570" y="440" width="125" height="60" as="geometry" /></mxCell>
         <mxCell id="p2-d6" value="6&#xa;Pi 5" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="700" y="440" width="125" height="60" as="geometry" /></mxCell>
         <mxCell id="p2-d7" value="7&#xa;frei" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#f5f5f5;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="830" y="440" width="125" height="60" as="geometry" /></mxCell>
-        <mxCell id="p2-d8" value="8&#xa;FRITZ!Box 1G" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#fff2cc;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="960" y="440" width="125" height="60" as="geometry" /></mxCell>
+        <mxCell id="p2-d8" value="8&#xa;QNAP Port 8" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#fff2cc;strokeColor=#6c8ebf;" vertex="1" parent="1"><mxGeometry x="960" y="440" width="125" height="60" as="geometry" /></mxCell>
         <mxCell id="p2-panel-title" value="deleyCON · 0,5 HE · HDMI- und USB-Verlängerungen" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=12;verticalAlign=middle;fontSize=17;fontStyle=1;fillColor=#e1f2df;strokeColor=#82b366;" vertex="1" parent="1"><mxGeometry x="50" y="530" width="1035" height="40" as="geometry" /></mxCell>
         <mxCell id="p2-k1" value="K1&#xa;Green USB 1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1"><mxGeometry x="50" y="580" width="140" height="68" as="geometry" /></mxCell>
         <mxCell id="p2-k2" value="K2&#xa;Green USB 2" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1"><mxGeometry x="200" y="580" width="140" height="68" as="geometry" /></mxCell>
